@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🎨 Sobre mim
+- 🚀 Programo por entretenimento, nada profissional
+- 🧩 Gosto de aprender coisas novas só pela curiosidade
+- 😎 Sempre explorando ideias diferentes
 
-<!--
-**samiXD2003/samiXD2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Linguagens que uso
+- 🟦 `PYTHON`
+- 🟨 `JAVASCRIPT`
+- 🟥 `HTML5`
+- 🟦 `CSS3`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+Me divertir criando códigos, sites e pequenos projetos.  
+Sem pressão, sem formalidade — só pelo prazer de ver algo funcionando ✨
