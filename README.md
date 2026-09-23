@@ -1,1 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiXD2003&layout=compact&theme=tokyonight&hide_border=true)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samiXD2003&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samiXD2003&theme=tokyonight)
