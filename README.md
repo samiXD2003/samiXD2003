@@ -1,5 +1,4 @@
-## 🛠️ Linguagens que uso
-- 🟦 `PYTHON`
-- 🟨 `JAVASCRIPT`
-- 🟥 `HTML5`
-- 🟦 `CSS3`
+- 🟦 Python ![Python](https://img.shields.io/badge/70%25-blue?style=for-the-badge)
+- 🟨 JavaScript ![JavaScript](https://img.shields.io/badge/20%25-yellow?style=for-the-badge)
+- 🟥 HTML5 ![HTML5](https://img.shields.io/badge/5%25-red?style=for-the-badge)
+- 🟦 CSS3 ![CSS3](https://img.shields.io/badge/5%25-blueviolet?style=for-the-badge)
