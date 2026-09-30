@@ -1,19 +1,13 @@
-# 👋 Olá, eu sou o Samikat!
+# Olá, eu sou o Samikat!
 
-> 💬 *"Com olhos suficientes, todos os erros são superficiais."*  
+> *"Com olhos suficientes, todos os erros são superficiais."*  
 > — **Linus Torvalds**
 
 ---
 
-### 🚀 Sobre Mim
 
-- 🎮 Programo por **hobby e entretenimento**, focado em criar ferramentas úteis e projetos divertidos.
-- 📈 Tenho conhecimento **básico**, mas estou em constante aprendizado e a evoluir um pouco a cada dia.
-- 💡 Gosto de explorar novas ideias, automatizar tarefas e entender como as coisas funcionam por trás dos panos.
 
----
-
-### 🛠️️ Minhas Tecnologias & Habilidades
+### 🛠Minhas Tecnologias & Habilidades
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
