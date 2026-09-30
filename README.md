@@ -1,4 +1,4 @@
-```html
+html
 <h3 align="center">🛠️ Minhas Tecnologias & Habilidades</h3>
 
 <p align="center">
