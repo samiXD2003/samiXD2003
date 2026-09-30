@@ -3,6 +3,7 @@
 > *"Com olhos suficientes, todos os erros são superficiais."*  
 > — **Linus Torvalds**
 
+---
 ### Tecnologias & Habilidades
 
 <p align="center">
