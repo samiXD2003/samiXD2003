@@ -1,3 +1,26 @@
+# 👋 Olá, eu sou o Samikat!
+
+> *"Programar por hobby, aprender por curiosidade e evoluir a cada linha de código."*
+
+---
+
+### 🚀 Sobre Mim
+
+- 🎮 Programo por **hobby e entretenimento**, focado em criar ferramentas úteis e projetos divertidos.
+- 📈 Tenho conhecimento **básico**, mas estou em constante aprendizado e a evoluir um pouco a cada dia.
+- 💡 Gosto de explorar novas ideias, automatizar tarefas e entender como as coisas funcionam por trás dos panos.
+
+---
+
+### 🛠️️ Minhas Tecnologias & Habilidades
+
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards/radar?title=Teia%20de%20Habilidades&labels=JavaScript,Python,HTML5,CSS3,Node.js,Git&values=85,60,85,80,80,75&theme=dark" alt="Teia de Habilidades" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
