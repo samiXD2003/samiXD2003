@@ -1,1 +1,12 @@
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=samiXD2003&theme=radical)
+```mermaid
+mindmap
+  root((Habilidades))
+    JavaScript
+      Node.js
+      Express.js
+    Frontend
+      HTML5
+      CSS3
+    Ferramentas
+      Git & GitHub
+      VS Code
