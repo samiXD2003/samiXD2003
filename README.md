@@ -1,4 +1,3 @@
-html
 <h3 align="center"></h3>
 
 <p align="center">
