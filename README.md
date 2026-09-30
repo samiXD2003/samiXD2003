@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Samikat!
 
-> *"Programar por hobby, aprender por curiosidade e evoluir a cada linha de código."*
+> 💬 *"Com olhos suficientes, todos os erros são superficiais."*  
+> — **Linus Torvalds**
 
 ---
 
